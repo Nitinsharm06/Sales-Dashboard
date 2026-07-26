@@ -40,5 +40,5 @@ The objective of this project is to transform raw sales data into an interactive
 
 **Nitin Sharma**  
 BCA Graduate | Aspiring Data Analyst
-Linkedin: https://www.linkedin.com/in/nitin-sharma-a55047207
-E-mail: nitinsharma97977@gmail.com
+- Linkedin: https://www.linkedin.com/in/nitin-sharma-a55047207
+- E-mail: nitinsharma97977@gmail.com
